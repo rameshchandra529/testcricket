@@ -1,0 +1,1 @@
+FROM prometheuscommunity/stackdriver-exporter:latest
