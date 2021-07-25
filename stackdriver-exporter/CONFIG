@@ -1,0 +1,5 @@
+IMAGE_NAME=stackdriver_exporter
+IMAGE_VERSION=0.11.0
+IMAGE_PATH=
+DESCRIPTION=stackdriver_exporter
+DOCUMENTATION=https://github.com/prometheus-community/stackdriver_exporter
